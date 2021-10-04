@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from México</h3>
 <img src="https://image.freepik.com/free-vector/ocean-sea-beach-nature-tranquil-landscape_33099-2248.jpg">
 
-- 🌱 I’m currently learning **React, Python & back-end with NodeJS**
+- 🌱 I’m currently learning **Python & back-end with NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
