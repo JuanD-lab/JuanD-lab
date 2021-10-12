@@ -9,13 +9,13 @@
 <p>
 <a href="https://www.linkedin.com/in/juandanielkm/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/juandanielkm" target="_blank">
+</a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/juandanielkm" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-00c13b?style=for-the-badge&logo=hackerrank&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-   <a href="https://juan-danielkm.netlify.app/" target="_blank">
+</a>&nbsp;&nbsp;
+ <a href="https://juan-danielkm.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=www&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+ </a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
