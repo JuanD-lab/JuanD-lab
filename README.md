@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from México</h3>
 
 - 🌱 I’m currently learning **Back-end with Django**
+-In my spare time I play futbol soccer :soccer: and running :runner:
+-Me interesa aprender inteligencia artificial y robótica :robot:
 
 <h3 align="left">Connect with me:</h3>
 <p>
