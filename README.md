@@ -10,11 +10,11 @@
 <a href="https://www.linkedin.com/in/juandanielkm/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/candrepa1">
+  <a href="https://www.hackerrank.com/juandanielkm">
     <img src="https://img.shields.io/badge/Hackerrank-00c13b?style=for-the-badge&logo=hackerrank&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://mail.google.com/mail/u/0/?view=cm&to=candrepa1@gmail.com&su=Let's%20connect!">
-    <img src="https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=www&logoColor=white" />        
+   <a href="https://juan-danielkm.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=www&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
