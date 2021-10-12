@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Daniel</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
-<img src="https://image.freepik.com/free-vector/ocean-sea-beach-nature-tranquil-landscape_33099-2248.jpg">
 
 - 🌱 I’m currently learning **Python & back-end with NodeJS**
 
